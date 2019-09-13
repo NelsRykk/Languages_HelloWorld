@@ -1,6 +1,6 @@
 ﻿'Assignment: Asg1-1
 'RCET0265
-'Your Name
+'Rykken Nelson
 'Hello World Program
 
 Public Class bot
